@@ -1,5 +1,4 @@
-function sum(a, b) {
+module.exports = function sum(a, b) {
     return a + b
 }
 
-console.log(sum(4, 34));
